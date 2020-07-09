@@ -26,7 +26,7 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 
-###Technologies used
+### Technologies used
 React
 React Hooks
 Material UI
